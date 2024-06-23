@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+  font-family: "Inter", sans-serif;
+}
+
+.about-container {
+    margin-top: 100px;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .about-text{
+    margin-left: 10px;
+    margin-top: 65px;
+    width: 100%;
+  }
+
+  .about-image{
+    padding-left: 100px;
+  }
+  
+  .about-image img {
+    max-width: 100%;
+    height: 300px;
+    width: 750px;
+    transition: box-shadow 0.3s ease;
+  }
+
+  .about-image img:hover{
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.2);
+    transform: all ease 0.1;
+    cursor: pointer;
+  }
+  
+  .cta-button {
+    width: 100px;
+    height: 30px;
+    font-weight: 50px;
+    background: black;
+    color: white;
+    border: 0;
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+  
+  .about-name{
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    text-align: center;
+    padding-left: 60px;
+  }
+
+  .about-description{
+    padding-left: 60px;
+    margin-top: 20px;
+    word-spacing: 1px;
+    line-height: 23px;
+  }

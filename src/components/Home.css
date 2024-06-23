@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+  font-family: "Inter", sans-serif;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+  }
+  
+.video-container {
+  width: 100%;
+  height: 500px;
+}
+  
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content-container {
+  padding-top: 30px;
+  display: flex;
+  flex: 1;
+  font: 100;
+  justify-content: space-between;
+}
+
+.left-half {
+  flex: 1;
+  padding-left: 150px;
+  font-size: 30px;
+  font-weight: 700;
+  width: 80%;
+  color: black;
+}
+
+.right-half {
+  flex: 1;
+  padding-left: 0;
+}
+
+.buttons-home{
+  padding-top: 20px;
+  width: 100%;
+ 
+}
+
+.view-button{
+  width: 75px;
+  height: 30px;
+  font-weight: 50px;
+  background: black;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}
+
+.learn-button{
+  width: 100px;
+  height: 30px;
+  font-weight: 80px;
+  background: white;
+  color: black;
+  margin-left: 25px;
+  border-color: black;
+  cursor: pointer;
+}
+  
