@@ -1,12 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
 import '../components/Navigation.css';
-import Home from '../components/Home';
-import Gallery from '../components/Gallery';
-import About from '../components/About';
-import Projects from '../components/Projects';
-import Contact from '../components/Contact';
-
 
 const Navigation = () => {
   return (
