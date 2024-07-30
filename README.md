@@ -52,17 +52,17 @@ The website will be available at http://localhost:3000 in your browser.
 **Figma**: For the tool used in designing mockups.
 **React.js**: For the powerful library used to build the interactive UI.
 
-[screenshot1](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo1.jpg)
+![screenshot1](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo1.jpg)
 <br>
 <br>
-[screenshot2](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo2.jpg)
+![screenshot2](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo2.jpg)
 <br>
 <br>
-[screenshot3](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo_3.jpg)
+![screenshot3](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo_3.jpg)
 <br>
 <br>
-[screenshot4](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo_4.jpg)
+![screenshot4](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo_4.jpg)
 <br>
 <br>
-[screenshot5](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo_5.jpg)
+![screenshot5](https://github.com/Jaswanth-0401/Photography-Portfolio/blob/main/screenshots/Photo_5.jpg)
 
